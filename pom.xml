@@ -152,7 +152,7 @@
              for the netty version we bump to (ie, corresponding git tag),
              to find the correct `tcnative` version. -->
         <netty.version>4.1.78.Final</netty.version>
-        <netty-codec-http2-version>4.1.78.Final</netty-codec-http2-version>
+        <netty-codec-http2-version>4.1.100.Final</netty-codec-http2-version>
         <jersey-common>2.34</jersey-common>
         <multi-threaded-testing.forkCount>3</multi-threaded-testing.forkCount>
     </properties>
